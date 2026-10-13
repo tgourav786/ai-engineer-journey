@@ -1,0 +1,7 @@
+skill,hours_spent,status,importance
+Python,1.5,Done,10
+SQL,0.0,Pending,8
+Git,0.5,Done,9
+RAG,0.0,Pending,10
+FastAPI,0.0,Pending,9
+Docker,0.0,Pending,7
